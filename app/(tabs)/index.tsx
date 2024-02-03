@@ -2,6 +2,7 @@ import { StyleSheet } from 'react-native';
 import EditScreenInfo from '@/components/EditScreenInfo';
 import { Text, View } from '@/components/Themed';
 import MapView from 'react-native-maps';
+import React from 'react';
 
 
 export default function TabOneScreen() {
